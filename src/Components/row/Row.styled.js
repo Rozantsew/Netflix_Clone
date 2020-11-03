@@ -4,6 +4,8 @@ import { mediaQueries } from "../../assets/styles/mediaQueries";
 export const StyledHeader = styled.h2`
   text-align: left;
   margin: 10px;
+  margin-left: 20px;
+  color: #fff;
 
   ${mediaQueries("md")`
     text-align: left;
@@ -14,8 +16,8 @@ export const RowPosters = styled.div`
   display: flex;
   overflow-y: hidden;
   overflow-x: scroll;
-  padding: 20px;
-  margin-left: 10px;
+  padding: 20px 0px;
+  margin-left: 20px;
   
   &::-webkit-scrollbar {
     display: none;
