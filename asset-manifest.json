@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Rozantsew/Netflix_Clone.git/static/css/main.5f361e03.chunk.css",
-    "main.js": "/Rozantsew/Netflix_Clone.git/static/js/main.d4cf31be.chunk.js",
-    "main.js.map": "/Rozantsew/Netflix_Clone.git/static/js/main.d4cf31be.chunk.js.map",
+    "main.css": "/Rozantsew/Netflix_Clone.git/static/css/main.8f95f25b.chunk.css",
+    "main.js": "/Rozantsew/Netflix_Clone.git/static/js/main.977d8138.chunk.js",
+    "main.js.map": "/Rozantsew/Netflix_Clone.git/static/js/main.977d8138.chunk.js.map",
     "runtime-main.js": "/Rozantsew/Netflix_Clone.git/static/js/runtime-main.c772e4cf.js",
     "runtime-main.js.map": "/Rozantsew/Netflix_Clone.git/static/js/runtime-main.c772e4cf.js.map",
-    "static/js/2.f86eaf17.chunk.js": "/Rozantsew/Netflix_Clone.git/static/js/2.f86eaf17.chunk.js",
-    "static/js/2.f86eaf17.chunk.js.map": "/Rozantsew/Netflix_Clone.git/static/js/2.f86eaf17.chunk.js.map",
+    "static/js/2.a18bd29c.chunk.js": "/Rozantsew/Netflix_Clone.git/static/js/2.a18bd29c.chunk.js",
+    "static/js/2.a18bd29c.chunk.js.map": "/Rozantsew/Netflix_Clone.git/static/js/2.a18bd29c.chunk.js.map",
     "index.html": "/Rozantsew/Netflix_Clone.git/index.html",
-    "precache-manifest.ffc8f4553ae34c4206f38c6e9c65c89b.js": "/Rozantsew/Netflix_Clone.git/precache-manifest.ffc8f4553ae34c4206f38c6e9c65c89b.js",
+    "precache-manifest.8c4a6968c7a72872dfec73845d5e5bb3.js": "/Rozantsew/Netflix_Clone.git/precache-manifest.8c4a6968c7a72872dfec73845d5e5bb3.js",
     "service-worker.js": "/Rozantsew/Netflix_Clone.git/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/Rozantsew/Netflix_Clone.git/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.f86eaf17.chunk.js.LICENSE.txt": "/Rozantsew/Netflix_Clone.git/static/js/2.f86eaf17.chunk.js.LICENSE.txt"
+    "static/css/main.8f95f25b.chunk.css.map": "/Rozantsew/Netflix_Clone.git/static/css/main.8f95f25b.chunk.css.map",
+    "static/js/2.a18bd29c.chunk.js.LICENSE.txt": "/Rozantsew/Netflix_Clone.git/static/js/2.a18bd29c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c772e4cf.js",
-    "static/js/2.f86eaf17.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.d4cf31be.chunk.js"
+    "static/js/2.a18bd29c.chunk.js",
+    "static/css/main.8f95f25b.chunk.css",
+    "static/js/main.977d8138.chunk.js"
   ]
 }
