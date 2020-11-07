@@ -10,6 +10,7 @@ const RowContainer = () => {
         fetchUrl={requests.fetchNetflixOriginals}
         isLargeRow
       />
+      <Row title="Popular" fetchUrl={requests.fetchPopular} />
       <Row title="Trending Now" fetchUrl={requests.fetchTrending} />
       <Row isLargeRow title="Top Rated" fetchUrl={requests.fetchTopRated} />
       <Row title="Action Movies" fetchUrl={requests.fetchActionMovies} />

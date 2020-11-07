@@ -21,6 +21,7 @@ export const RowPosters = styled.div`
   
   &::-webkit-scrollbar {
     display: none;
+  }
 `;
 
 export const RowPoster = styled.img`
