@@ -1,5 +1,14 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Demo Link ⬇
+
+
+<a href="https://rozantsew.github.io/Netflix_Clone/#/">Click to see demo</a>
+
+##
+
+##
+
 ## Available Scripts
 
 In the project directory, you can run:
